@@ -1,0 +1,28 @@
+{
+  "name": "mrpoopy",
+  "version": "1.0.0",
+  "description": "Discord bot for fun stuff and stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaaZorkane/mrpoopy.git"
+  },
+  "author": "Alaa Zorkane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlaaZorkane/mrpoopy/issues"
+  },
+  "homepage": "https://github.com/AlaaZorkane/mrpoopy#readme",
+  "dependencies": {
+    "ascii-art": "^1.4.3",
+    "bufferutil": "^3.0.5",
+    "chalk": "^2.4.1",
+    "countdown": "^2.6.0",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "erlpack": "github:hammerandchisel/erlpack"
+  }
+}
